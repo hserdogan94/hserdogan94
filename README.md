@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋
+## Welcome my page
+- 🌱 I’m currently learning HTML,CSS and JavaScript
+- 🤔 I’m looking for help with getting adapted with web development.
+- 📫 How to reach me: ...
 
 <!--
 **hserdogan94/hserdogan94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
