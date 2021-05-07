@@ -12,15 +12,15 @@
  
 - As an **owner** I want to include a photo that add a sense of credibility and integrity to my website
 
- -  [ ] Given the user **PROFILE PICTURE** on the front page of the home page
+  -  [ ] Given the user **PROFILE PICTURE** on the front page of the home page
 
 -  As **user** i want to accesses the home page on different platforms
 
- - [ ] Given the user a **responsive design** that can able to open the page on any platforms.
+   - [ ] Given the user a **responsive design** that can able to open the page on any platforms.
 
 - As **owner** I want to have short description that can able me to communicate to visitors.
 
-  - [ ] Given the user **HEADLINE**  With short description what the h
+   - [ ] Given the user **HEADLINE**  With short description what the h
    
 ## Should-Haves
 
