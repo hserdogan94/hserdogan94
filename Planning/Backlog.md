@@ -4,7 +4,7 @@
 
 - As an **USER** I want to accesses the navigation bar that i can use as road map to view content on the home page. 
  
-  - [ ] Given the **USER** Navigation bar thst contain **HOME** **ABOUT** **PROJECT**  **CONTACT** 
+  - [ ] Given the **USER** Navigation bar that contain **HOME** - **ABOUT** - **SKILLES** - **CONTACT** 
    
 - As a **user** I want to get in toche with the home page owner.
 
@@ -26,7 +26,7 @@
 
 - As an **user** I Want to see what professional skilles does he has.
  
-  - [ ] Given the user **BACKGROUND PAGE** that can show the skilles of the home page owner.
+  - [ ] Given the user **SKILLES** that can show the skilles of the home page owner.
   
 - As an **OWNER** I want to have my logo on the web page.  
 
@@ -36,7 +36,7 @@
 
 - As an **OWNER** I want to include some video contant. 
  
-  - [ ] Given the owner **clickable video icons** that contain the video links.
+  - [ ] Given the owner **clickable video icons** that contain the video.
   
 - As an **OWNER** I want to have a testimonials or customer/client reviews on my page.  
 
